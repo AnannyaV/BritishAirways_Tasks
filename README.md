@@ -1,4 +1,4 @@
-# British Airways Good or Bad?
+# British Airways Reviews
 
 This project is a part of the Data Science virtual internship program offered by Forage with British Airways. 
 
